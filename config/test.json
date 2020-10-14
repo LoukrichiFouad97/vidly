@@ -1,0 +1,4 @@
+{
+	"jwtWebToken": "vidly_jwtWebToken",
+	"db": "mongodb://localhost/vidly_tests"
+}
